@@ -13,3 +13,4 @@ def login(): #create decorator
 
 if __name__ == "__main__": #main is magic variable
 	app.run() 
+	
